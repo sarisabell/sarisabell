@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarisabell
-- 👀 I’m interested in anything related to ML in Water Sciences (Water Treatment, Chemistry ...)
-- 🌱 I’m currently learning ML practices to apply to my work in water sciences.
+- 👀 I’m interested in anything related to Water Treatment and ML in Water Sciences (Water chemistry, Treatment Prediction ...)
+- 🌱 I’m currently learning to apply ML to my work and finding better ways to analyse the water treatment data.
 - 💞️ I’m looking to collaborate on the work related to the above mentioned topics. :) 
 
 <!---
